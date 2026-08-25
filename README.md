@@ -125,4 +125,4 @@ The **Apriori algorithm** was used to identify frequent product combinations and
 
 ---
 
-⭐ *This project demonstrates the use of data analytics and Market Basket Analysis to convert retail transaction data into actionable business insights.*
+ *This project demonstrates the use of data analytics and Market Basket Analysis to convert retail transaction data into actionable business insights.*

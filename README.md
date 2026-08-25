@@ -69,7 +69,7 @@ The **Apriori algorithm** was used to identify frequent product combinations and
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - **WHITE HANGING HEART T-LIGHT HOLDER** was the most frequently occurring product.
 - Several strong product associations were identified.
